@@ -31,9 +31,21 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="autos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="autos.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="trabajos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="trabajos.h" />
+		<Unit filename="validaciones.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="validaciones.h" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
