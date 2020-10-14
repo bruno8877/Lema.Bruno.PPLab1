@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1602678508 source:c:\users\bruno\desktop\laboratorio-1\parcial.1-lab\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1602687294 source:c:\users\bruno\desktop\laboratorio-1\parcial.1-lab\autos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+	"autos.h"
+
+1602678508 c:\users\bruno\desktop\laboratorio-1\parcial.1-lab\validaciones.h
+	<stdio.h>
+
+1602683116 c:\users\bruno\desktop\laboratorio-1\parcial.1-lab\autos.h
+	<stdio.h>
+
+1602684770 source:c:\users\bruno\desktop\laboratorio-1\parcial.1-lab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"autos.h"
+	"trabajos.h"
+
+1602684770 c:\users\bruno\desktop\laboratorio-1\parcial.1-lab\trabajos.h
+	<stdio.h>
+
+1602687294 source:c:\users\bruno\desktop\laboratorio-1\parcial.1-lab\trabajos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+	"autos.h"
+	"trabajos.h"
+
